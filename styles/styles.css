@@ -1,0 +1,66 @@
+.logo1{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.navbar{
+    background-color: #2e2e2e !important;
+}
+
+.nav-link{
+    color: white;
+}
+
+.titulo2{
+    background-color: #dfdddd;
+    padding: 60px;
+}
+
+.bienvenidos{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+
+.btexto{
+    display: flex;
+    justify-content: center;
+    padding: 0px 400px 0px 400px;
+    font-size: 20px;
+}
+
+.botonm{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.cb1{
+    font-size: 20px;
+}
+
+.personas{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.tperso{
+    justify-content: center;
+    display: flex;
+}
+.card{
+    display: inline-block;
+    padding: 1px;
+    margin: 20px 100px 0px 100px;
+}
+
+.pie{
+    background-color: #dfdddd;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 13px;
+}
